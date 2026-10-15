@@ -1,0 +1,6 @@
+{
+  "name": "worktrees",
+  "version": "0.1.0",
+  "description": "A pane of this repo's git worktrees and the Claude chats in each; open any chat in a new tab while the others keep running.",
+  "types": "./types/index.d.ts"
+}
